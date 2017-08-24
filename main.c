@@ -29,6 +29,6 @@ int main(void)
         // Toggle LED at RA7
         _LATA7 = _LATA7 ^ 1;
     }
-
+    
     return -1;
 }
